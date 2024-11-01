@@ -1,4 +1,4 @@
-raining YOLO v8 on a custom dataset for player detection
+Training YOLO v8 on a custom dataset for player detection
 
 
 
