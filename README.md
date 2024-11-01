@@ -1,9 +1,11 @@
-Training YOLO v8 on a custom dataset for player detection
+## Player Detection using YOLOv8
+
+### Training YOLO v8 on a custom dataset for player detection
 
 
 
-Dataset contains 400 images with multiple classes 
+### Dataset contains 400 images with multiple classes
 
 
 
-mAp of over 95% for player detection
+### mAp of over 95% for player detection
